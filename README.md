@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abhinay, a Full-Stack Developer with 1.5 years of experience, currently working as a Junior MERN Stack Developer at Ozone Soft. Alongside my job, I am pursuing a B.Tech in Computer Science from Malwa Institute of Science & Technology, Indore. I have previously completed a Diploma in Computer Science Engineering from Government Polytechnic College, Rewa, MP (August 2020 – December 2023).
+I am Abhinay, a Full-Stack Developer with 1.5 years of experience.  I am pursuing a B.Tech in Computer Science from Malwa Institute of Science & Technology, Indore. I have previously completed a Diploma in Computer Science Engineering from Government Polytechnic College, Rewa, MP (August 2020 – December 2023).
 <br><br>
 I have hands-on experience in developing websites and mobile applications, and I specialize in JavaScript, React, and the MERN stack. Additionally,  I'm also building a community group called Ark Business Network to help entrepreneurs, freelancers, and business owners grow through networking, business discussions, and tech solutions.<br><br>
 My current focus is to enhance my skills in JavaScript and React, covering basic, advanced, and core concepts. I am passionate about creating innovative solutions, improving user experiences, and contributing to impactful projects.
