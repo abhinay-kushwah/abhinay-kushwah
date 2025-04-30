@@ -55,23 +55,14 @@ Beyond coding, I'm the founder of **[Ark Business Network](https://arkbusinessne
 *Check out my [GitHub Repositories](https://github.com/your-github-username?tab=repositories) for more projects!*
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
----
+ 
 
 ## 📬 Get in Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mailto:abhinayark0@gmail.com)
 - **LinkedIn**: [Abhinay Kushwah](https://linkedin.com/in/abhinay-kushwah)
 - **Ark Business Network**: [Join the Community](https://arkbusinessnetwork.com)
-- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
+- **Portfolio**: [Portfolio]([https://your-portfolio-link.com](https://portfolio-abhinay.vercel.app/profile))
 
 > "Code is poetry, and I'm writing verses that empower businesses and delight users." – Abhinay
 
