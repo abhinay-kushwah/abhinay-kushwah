@@ -59,10 +59,10 @@ Beyond coding, I'm the founder of **[Ark Business Network](https://arkbusinessne
 
 ## 📬 Get in Touch
 
-- **Email**: [your-email@example.com](mailto:abhinayark0@gmail.com)
+- **Email**: [Abhinay](mailto:abhinayark0@gmail.com)
 - **LinkedIn**: [Abhinay Kushwah](https://linkedin.com/in/abhinay-kushwah)
 - **Ark Business Network**: [Join the Community](https://arkbusinessnetwork.com)
-- **Portfolio**: [Portfolio]([https://your-portfolio-link.com](https://portfolio-abhinay.vercel.app/profile))
+- **Portfolio**: [Portfolio](https://portfolio-abhinay.vercel.app/profile)
 
 > "Code is poetry, and I'm writing verses that empower businesses and delight users." – Abhinay
 
